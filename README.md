@@ -1,1 +1,2 @@
-# student_management_tool
+Securing Attendance data using Blockchain
+(Final year project)
